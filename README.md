@@ -1,6 +1,9 @@
 # Simple-Order-Booking-System
+
 Best Selling Price:::
+
 The following program performs the following functions much like an ecommerce website.
+
 1.) You can add a product -> addProduct(“p1″) 
 
 2.) A user can purchase a product -> purchase(“u1″,”p1″) 
